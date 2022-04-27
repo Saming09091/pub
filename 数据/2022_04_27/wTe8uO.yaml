@@ -17,7 +17,6 @@ proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - ♻️ 自动选择
       - DIRECT
       - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_3
