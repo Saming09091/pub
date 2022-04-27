@@ -57,16 +57,13 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - default_name_1
       - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_3
       - 🇭🇰_HK_香港_4
       - 🇸🇬_SG_新加坡_5
       - 🇮🇳_IN_印度_6
-      - 🇺🇸_US_美国_7
       - 🇰🇷_KR_韩国_8
       - 🇮🇳_IN_印度_9
-      - 🇫🇷_FR_法国_10
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
