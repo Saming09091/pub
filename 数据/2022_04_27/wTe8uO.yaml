@@ -19,79 +19,40 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - default_name_1
       - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_3
       - 🇭🇰_HK_香港_4
       - 🇸🇬_SG_新加坡_5
       - 🇮🇳_IN_印度_6
-      - 🇺🇸_US_美国_7
       - 🇰🇷_KR_韩国_8
       - 🇮🇳_IN_印度_9
-      - 🇫🇷_FR_法国_10
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - default_name_1
       - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_3
       - 🇭🇰_HK_香港_4
       - 🇸🇬_SG_新加坡_5
       - 🇮🇳_IN_印度_6
-      - 🇺🇸_US_美国_7
       - 🇰🇷_KR_韩国_8
       - 🇮🇳_IN_印度_9
-      - 🇫🇷_FR_法国_10
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - default_name_1
       - 🇬🇧_GB_英国_2
       - 🇺🇸_US_美国_3
       - 🇭🇰_HK_香港_4
       - 🇸🇬_SG_新加坡_5
       - 🇮🇳_IN_印度_6
-      - 🇺🇸_US_美国_7
       - 🇰🇷_KR_韩国_8
       - 🇮🇳_IN_印度_9
-      - 🇫🇷_FR_法国_10
   - name: 📲 电报信息
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - 🎯 全球直连
-      - default_name_1
-      - 🇬🇧_GB_英国_2
-      - 🇺🇸_US_美国_3
-      - 🇭🇰_HK_香港_4
-      - 🇸🇬_SG_新加坡_5
-      - 🇮🇳_IN_印度_6
-      - 🇺🇸_US_美国_7
-      - 🇰🇷_KR_韩国_8
-      - 🇮🇳_IN_印度_9
-      - 🇫🇷_FR_法国_10
-  - name: Ⓜ️ 微软服务
-    type: select
-    proxies:
-      - 🎯 全球直连
-      - 🚀 节点选择
-      - default_name_1
-      - 🇬🇧_GB_英国_2
-      - 🇺🇸_US_美国_3
-      - 🇭🇰_HK_香港_4
-      - 🇸🇬_SG_新加坡_5
-      - 🇮🇳_IN_印度_6
-      - 🇺🇸_US_美国_7
-      - 🇰🇷_KR_韩国_8
-      - 🇮🇳_IN_印度_9
-      - 🇫🇷_FR_法国_10
-  - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
