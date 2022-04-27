@@ -6,6 +6,7 @@ log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
   - {"name":"🇺🇸_US_美国_1","server":"ai1.susenl.com","port":10030,"type":"trojan","country":"🇺🇸_US_美国_1","skip-cert-verify":true,"udp":true,"password":"c4b65d4c-ca53-328b-a4f2-4d8bc4b912b0"}
+  - ​{"name":"🇰🇷_KR_韩国_6","server":"krnf1.qingyun123.xyz","port":10050,"type":"trojan","country":"🇰🇷_KR_韩国_6","skip-cert-verify":true,"udp":true,"password":"80cbe86c-99cc-416a-87ce-74006d863e3a"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
