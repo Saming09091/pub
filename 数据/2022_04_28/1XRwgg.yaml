@@ -39,7 +39,7 @@ proxy-groups:
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 900
-    tolerance: 50
+    tolerance: 150
     proxies:
       - default_name_1
       - 🇬🇧_GB_英国_2
