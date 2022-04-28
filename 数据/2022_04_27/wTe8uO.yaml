@@ -13,4 +13,4 @@ proxies:
   - {"name":"🇮🇳_IN_印度_6","server":"jgwhdlb3.gaox.ml","port":443,"type":"trojan","country":"🇮🇳_IN_印度_6","skip-cert-verify":true,"udp":true,"password":"006baa3f-4bc3-4915-b60d-c8c5dae11a11"}
   - {"name":"🇰🇷_KR_韩国_8","server":"krnf1.qingyun123.xyz","port":10050,"type":"trojan","country":"🇰🇷_KR_韩国_8","skip-cert-verify":true,"udp":true,"password":"80cbe86c-99cc-416a-87ce-74006d863e3a"}
   - {"name":"🇮🇳_IN_印度_9","server":"jgwhdlb2.gaox.ml","port":443,"type":"trojan","country":"🇮🇳_IN_印度_9","skip-cert-verify":true,"udp":true,"password":"54080134-2cba-4535-8599-95650bd9aa54"}
-
+- MATCH,🐟 漏网之鱼
