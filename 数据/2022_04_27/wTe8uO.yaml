@@ -41,4 +41,4 @@ proxy-groups:
       - 🇰🇷_KR_韩国_8
       - 🇮🇳_IN_印度_9
       - 🇸🇬_SG_新加坡_5
-   - MATCH,🐟 漏网之鱼
+  - MATCH,🐟 漏网之鱼
